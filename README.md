@@ -6,7 +6,7 @@ Simulates an evolutionary algorithm, shown to produce communication and lying be
 More explicit details about project soon.
 
 This is an implementation of the simulator described in this paper:
-http://stephane.magnenat.net/data/Evolutionary%20Conditions%20for%20the%20Emergence%20of%20Communication%20in%20Robots%20-%20Dario%20Floreano,%20Sara%20Mitri,%20St%C3%A9phane%20Magnenat,%20Laurent%20Keller%20-%20Current%20Biology%20-%202007.pdf
+bit.ly/1iXAPVw
 
 Summary of paper:
 
