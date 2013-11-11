@@ -5,7 +5,7 @@ Simulates an evolutionary algorithm, shown to produce communication and lying be
 
 More explicit details about project soon.
 
-This is an implementation of the simulator described in this paper:
+This is an implementation of the simulator described in Floreano et al. 2007:
 bit.ly/1iXAPVw
 
 Summary of paper:
